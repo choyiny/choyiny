@@ -3,7 +3,7 @@
 ### About Me
 🧑🏻‍💻 Team Lead, Development (Innovation) at [Verto Health](https://verto.health)</br>
 🎓 BSc. Computer Science (Software Engineering) at the University of Toronto</br>
-👨🏻‍🏫 Verto NinjaOps Instructor, Guest Speaker for [Programming on the Web at UTSC](https://thierrysans.me/CSCC09/). 
+👨🏻‍🏫 Sessional Lecturer for [Programming on the Web at UTSC](https://cscc09.com) (Summer 2022). 
 
 <!-- Fight For Freedom, Stand with __ -->
 
@@ -14,6 +14,7 @@
 - Automate away what developers do now!
 
 ### Languages and Frameworks
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
