@@ -2,21 +2,25 @@
 
 ### About Me
 🧑🏻‍💻 Team Lead, Development (Innovation) at [Verto Health](https://verto.health)</br>
-🎓 BSc. Computer Science (Software Engineering) at the University of Toronto</br>
-👨🏻‍🏫 Sessional Lecturer for [Programming on the Web at UTSC](https://cscc09.com) (Summer 2022). 
+🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
+👨🏻‍🏫 Sessional Lecturer for [Programming on the Web at UTSC](https://cscc09.com). 
 
 <!-- Fight For Freedom, Stand with __ -->
+
+### My Latest Braindumps
+- [Build a scalable URL shortener in 10 minutes with Cloudflare Workers and KV](https://choy.in/braindumps/build-a-url-shortener-with-cloudflare-workers-and-kv) - 2022-08-17
 
 ### My Interests
 - Use [Server Driven UI](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5) to speed up frontend development
 - [DAG-based workflow engines](https://medium.com/@Wealthsimple/engineering-at-wealthsimple-reinventing-our-trading-platform-for-scale-17e332241b6c)
-- Teach Computer Science and development more like arts, not science.
+- [Serverless nanoservices](https://blog.cloudflare.com/introducing-cloudflare-workers/) that are infinitely scalable without managing your own infrastructure.
+- Teach Computer Science and software development more like arts, not science.
 - Automate away what developers do now!
 
 ### Languages and Frameworks
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"></code>
