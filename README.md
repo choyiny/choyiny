@@ -8,6 +8,7 @@
 <!-- Fight For Freedom, Stand with __ -->
 
 ### My Latest Braindumps
+- [Setting up Kafka on Docker for local development (+ bonus Clickhouse setup)](https://choy.in/braindumps/kafka-on-docker-development) - 2022-12-13
 - [Enabling Contained Customization with FSM & Server-Driven UI](https://blue.verto.health/enabling-contained-customization-with-fsm-server-driven-ui/) - 2022-11-04
 - [Build a scalable URL shortener in 10 minutes with Cloudflare Workers and KV](https://choy.in/braindumps/build-a-url-shortener-with-cloudflare-workers-and-kv) - 2022-08-17
 
