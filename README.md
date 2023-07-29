@@ -3,9 +3,13 @@
 ### About Me
 🧑🏻‍💻 Team Lead, Development (Innovation) at [Verto Health](https://verto.health)</br>
 🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
-👨🏻‍🏫 Sessional Lecturer for [Programming on the Web at UTSC](https://cscc09.com). 
+👨🏻‍🏫 Sessional Lecturer at the University of Toronto Scarborough (Department of Computer and Mathematical Sciences)
 
 <!-- Fight For Freedom, Stand with __ -->
+
+### My Courses
+- CSCD01: Engineering Large Software Systems (Fall 2023)
+- CSCC09: [Programming on the Web](https://cscc09.com) (Winter 2023, Summer 2022)
 
 ### My Latest Braindumps
 - [Setting up Kafka on Docker for local development (+ bonus Clickhouse setup)](https://choy.in/braindumps/kafka-on-docker-development) - 2022-12-13
