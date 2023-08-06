@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Cho Yin
 
 ### About Me
-🧑🏻‍💻 Team Lead, Development (Innovation) at [Verto Health](https://verto.health)</br>
+🧑🏻‍💻 Engineering Manager at [Verto Health](https://verto.health)</br>
 🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
 👨🏻‍🏫 Sessional Lecturer at the University of Toronto Scarborough (Department of Computer and Mathematical Sciences)
 
@@ -11,7 +11,8 @@
 - CSCD01: Engineering Large Software Systems (Fall 2023)
 - CSCC09: [Programming on the Web](https://cscc09.com) (Winter 2023, Summer 2022)
 
-### My Latest Braindumps
+### My Latest Posts
+- [Connections & Collaboration: A Recap of the Canada Health Infoway Projectathon 2023](https://blue.verto.health/chi-projectathon-2023-recap/) - 2023-08-03
 - [Setting up Kafka on Docker for local development (+ bonus Clickhouse setup)](https://choy.in/braindumps/kafka-on-docker-development) - 2022-12-13
 - [Enabling Contained Customization with FSM & Server-Driven UI](https://blue.verto.health/enabling-contained-customization-with-fsm-server-driven-ui/) - 2022-11-04
 - [Build a scalable URL shortener in 10 minutes with Cloudflare Workers and KV](https://choy.in/braindumps/build-a-url-shortener-with-cloudflare-workers-and-kv) - 2022-08-17
