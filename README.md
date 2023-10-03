@@ -8,7 +8,7 @@
 <!-- Fight For Freedom, Stand with __ -->
 
 ### My Courses
-- CSCD01: Engineering Large Software Systems (Fall 2023)
+- CSCD01: [Engineering Large Software Systems](https://cscd01.com) (Fall 2023)
 - CSCC09: [Programming on the Web](https://cscc09.com) (Winter 2023, Summer 2022)
 
 ### My Latest Posts
