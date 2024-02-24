@@ -2,8 +2,8 @@
 
 ### About Me
 🧑🏻‍💻 Engineering Manager at [Verto Health](https://verto.health)</br>
-🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
 👨🏻‍🏫 Sessional Lecturer at the University of Toronto Scarborough (Department of Computer and Mathematical Sciences)
+🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
 
 <!-- Fight For Freedom, Stand with __ -->
 
@@ -12,6 +12,7 @@
 - CSCC09: [Programming on the Web](https://cscc09.com) (Winter 2023, Summer 2022)
 
 ### My Latest Posts
+- [FHIR Starter: How AI Can Help Organizations Move from HL7v2 to FHIR](https://blue.verto.health/how-ai-can-help-organizations-move-from-hl7v2-to-fhir/) - 2023-11-13
 - [Connections & Collaboration: A Recap of the Canada Health Infoway Projectathon 2023](https://blue.verto.health/chi-projectathon-2023-recap/) - 2023-08-03
 - [Setting up Kafka on Docker for local development (+ bonus Clickhouse setup)](https://choy.in/braindumps/kafka-on-docker-development) - 2022-12-13
 - [Enabling Contained Customization with FSM & Server-Driven UI](https://blue.verto.health/enabling-contained-customization-with-fsm-server-driven-ui/) - 2022-11-04
