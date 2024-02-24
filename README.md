@@ -1,9 +1,9 @@
 ## 👋 Hi I'm Cho Yin
 
 ### About Me
-🧑🏻‍💻 Engineering Manager at [Verto Health](https://verto.health)</br>
-👨🏻‍🏫 Sessional Lecturer at the University of Toronto Scarborough (Department of Computer and Mathematical Sciences)
-🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
+- 🧑🏻‍💻 Engineering Manager at [Verto Health](https://verto.health)</br>
+- 👨🏻‍🏫 Sessional Lecturer at the University of Toronto Scarborough (Department of Computer and Mathematical Sciences)
+- 🎓 HBSc. Computer Science (Software Engineering) at the University of Toronto</br>
 
 <!-- Fight For Freedom, Stand with __ -->
 
