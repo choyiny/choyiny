@@ -14,3 +14,7 @@
 ### My Patents
 - [Dynamic clustering of a standard coding system](https://patents.google.com/patent/WO2025147762A1/en?inventor=Cho+Yin+YONG&peid=63f94a1139220%3Ae%3A81d12f56)
 - [Healthcare record virtualization](https://patents.google.com/patent/WO2024065061A1/en?inventor=Cho+Yin+YONG&peid=63f94a219abc8%3A13%3A4519413c)
+
+### Project Showcase
+- [Lotsotravel](https://lotsotravel.com) - eSIM Convenience Store. Unbeatable Prices.
+- [Youth Mental Health Narratives](https://drivendata.co/blog/youth-mental-health-winners) - 🥇 1st place
